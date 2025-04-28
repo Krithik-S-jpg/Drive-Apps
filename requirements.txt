@@ -13,3 +13,6 @@ streamlit_autorefresh
 streamlit-mic-recorder
 assemblyai
 google-generativeai
+opencv-python
+mediapipe
+av
